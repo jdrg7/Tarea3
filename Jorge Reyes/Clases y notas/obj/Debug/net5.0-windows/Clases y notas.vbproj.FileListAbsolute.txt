@@ -1,0 +1,36 @@
+C:\Users\jdrg7\source\repos\Clases y notas\Clases y notas\bin\Debug\net5.0-windows\Clases y notas.exe
+C:\Users\jdrg7\source\repos\Clases y notas\Clases y notas\bin\Debug\net5.0-windows\Clases y notas.deps.json
+C:\Users\jdrg7\source\repos\Clases y notas\Clases y notas\bin\Debug\net5.0-windows\Clases y notas.runtimeconfig.json
+C:\Users\jdrg7\source\repos\Clases y notas\Clases y notas\bin\Debug\net5.0-windows\Clases y notas.runtimeconfig.dev.json
+C:\Users\jdrg7\source\repos\Clases y notas\Clases y notas\bin\Debug\net5.0-windows\Clases y notas.dll
+C:\Users\jdrg7\source\repos\Clases y notas\Clases y notas\bin\Debug\net5.0-windows\ref\Clases y notas.dll
+C:\Users\jdrg7\source\repos\Clases y notas\Clases y notas\bin\Debug\net5.0-windows\Clases y notas.pdb
+C:\Users\jdrg7\source\repos\Clases y notas\Clases y notas\obj\Debug\net5.0-windows\Clases y notas.vbprojAssemblyReference.cache
+C:\Users\jdrg7\source\repos\Clases y notas\Clases y notas\obj\Debug\net5.0-windows\Clases_y_notas.Form1.resources
+C:\Users\jdrg7\source\repos\Clases y notas\Clases y notas\obj\Debug\net5.0-windows\Clases y notas.vbproj.GenerateResource.cache
+C:\Users\jdrg7\source\repos\Clases y notas\Clases y notas\obj\Debug\net5.0-windows\Clases y notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jdrg7\source\repos\Clases y notas\Clases y notas\obj\Debug\net5.0-windows\Clases y notas.AssemblyInfoInputs.cache
+C:\Users\jdrg7\source\repos\Clases y notas\Clases y notas\obj\Debug\net5.0-windows\Clases y notas.AssemblyInfo.vb
+C:\Users\jdrg7\source\repos\Clases y notas\Clases y notas\obj\Debug\net5.0-windows\Clases y notas.vbproj.CoreCompileInputs.cache
+C:\Users\jdrg7\source\repos\Clases y notas\Clases y notas\obj\Debug\net5.0-windows\Clases y notas.dll
+C:\Users\jdrg7\source\repos\Clases y notas\Clases y notas\obj\Debug\net5.0-windows\ref\Clases y notas.dll
+C:\Users\jdrg7\source\repos\Clases y notas\Clases y notas\obj\Debug\net5.0-windows\Clases y notas.pdb
+C:\Users\jdrg7\source\repos\Clases y notas\Clases y notas\obj\Debug\net5.0-windows\Clases y notas.genruntimeconfig.cache
+C:\Users\jdrg7\Documents\Univeridad - I Periodo - 2021 (Tercer año)\Desarrollo de Software\I Parcial\Visual Studio\Tareas\Tarea3\Jorge Reyes\Clases y notas\bin\Debug\net5.0-windows\Clases y notas.exe
+C:\Users\jdrg7\Documents\Univeridad - I Periodo - 2021 (Tercer año)\Desarrollo de Software\I Parcial\Visual Studio\Tareas\Tarea3\Jorge Reyes\Clases y notas\bin\Debug\net5.0-windows\Clases y notas.deps.json
+C:\Users\jdrg7\Documents\Univeridad - I Periodo - 2021 (Tercer año)\Desarrollo de Software\I Parcial\Visual Studio\Tareas\Tarea3\Jorge Reyes\Clases y notas\bin\Debug\net5.0-windows\Clases y notas.runtimeconfig.json
+C:\Users\jdrg7\Documents\Univeridad - I Periodo - 2021 (Tercer año)\Desarrollo de Software\I Parcial\Visual Studio\Tareas\Tarea3\Jorge Reyes\Clases y notas\bin\Debug\net5.0-windows\Clases y notas.runtimeconfig.dev.json
+C:\Users\jdrg7\Documents\Univeridad - I Periodo - 2021 (Tercer año)\Desarrollo de Software\I Parcial\Visual Studio\Tareas\Tarea3\Jorge Reyes\Clases y notas\bin\Debug\net5.0-windows\Clases y notas.dll
+C:\Users\jdrg7\Documents\Univeridad - I Periodo - 2021 (Tercer año)\Desarrollo de Software\I Parcial\Visual Studio\Tareas\Tarea3\Jorge Reyes\Clases y notas\bin\Debug\net5.0-windows\ref\Clases y notas.dll
+C:\Users\jdrg7\Documents\Univeridad - I Periodo - 2021 (Tercer año)\Desarrollo de Software\I Parcial\Visual Studio\Tareas\Tarea3\Jorge Reyes\Clases y notas\bin\Debug\net5.0-windows\Clases y notas.pdb
+C:\Users\jdrg7\Documents\Univeridad - I Periodo - 2021 (Tercer año)\Desarrollo de Software\I Parcial\Visual Studio\Tareas\Tarea3\Jorge Reyes\Clases y notas\obj\Debug\net5.0-windows\Clases y notas.vbprojAssemblyReference.cache
+C:\Users\jdrg7\Documents\Univeridad - I Periodo - 2021 (Tercer año)\Desarrollo de Software\I Parcial\Visual Studio\Tareas\Tarea3\Jorge Reyes\Clases y notas\obj\Debug\net5.0-windows\Clases_y_notas.Form1.resources
+C:\Users\jdrg7\Documents\Univeridad - I Periodo - 2021 (Tercer año)\Desarrollo de Software\I Parcial\Visual Studio\Tareas\Tarea3\Jorge Reyes\Clases y notas\obj\Debug\net5.0-windows\Clases y notas.vbproj.GenerateResource.cache
+C:\Users\jdrg7\Documents\Univeridad - I Periodo - 2021 (Tercer año)\Desarrollo de Software\I Parcial\Visual Studio\Tareas\Tarea3\Jorge Reyes\Clases y notas\obj\Debug\net5.0-windows\Clases y notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jdrg7\Documents\Univeridad - I Periodo - 2021 (Tercer año)\Desarrollo de Software\I Parcial\Visual Studio\Tareas\Tarea3\Jorge Reyes\Clases y notas\obj\Debug\net5.0-windows\Clases y notas.AssemblyInfoInputs.cache
+C:\Users\jdrg7\Documents\Univeridad - I Periodo - 2021 (Tercer año)\Desarrollo de Software\I Parcial\Visual Studio\Tareas\Tarea3\Jorge Reyes\Clases y notas\obj\Debug\net5.0-windows\Clases y notas.AssemblyInfo.vb
+C:\Users\jdrg7\Documents\Univeridad - I Periodo - 2021 (Tercer año)\Desarrollo de Software\I Parcial\Visual Studio\Tareas\Tarea3\Jorge Reyes\Clases y notas\obj\Debug\net5.0-windows\Clases y notas.vbproj.CoreCompileInputs.cache
+C:\Users\jdrg7\Documents\Univeridad - I Periodo - 2021 (Tercer año)\Desarrollo de Software\I Parcial\Visual Studio\Tareas\Tarea3\Jorge Reyes\Clases y notas\obj\Debug\net5.0-windows\Clases y notas.dll
+C:\Users\jdrg7\Documents\Univeridad - I Periodo - 2021 (Tercer año)\Desarrollo de Software\I Parcial\Visual Studio\Tareas\Tarea3\Jorge Reyes\Clases y notas\obj\Debug\net5.0-windows\ref\Clases y notas.dll
+C:\Users\jdrg7\Documents\Univeridad - I Periodo - 2021 (Tercer año)\Desarrollo de Software\I Parcial\Visual Studio\Tareas\Tarea3\Jorge Reyes\Clases y notas\obj\Debug\net5.0-windows\Clases y notas.pdb
+C:\Users\jdrg7\Documents\Univeridad - I Periodo - 2021 (Tercer año)\Desarrollo de Software\I Parcial\Visual Studio\Tareas\Tarea3\Jorge Reyes\Clases y notas\obj\Debug\net5.0-windows\Clases y notas.genruntimeconfig.cache

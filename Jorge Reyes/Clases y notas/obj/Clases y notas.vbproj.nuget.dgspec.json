@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jdrg7\\Documents\\Univeridad - I Periodo - 2021 (Tercer año)\\Desarrollo de Software\\I Parcial\\Visual Studio\\Tareas\\Tarea3\\Jorge Reyes\\Clases y notas\\Clases y notas.vbproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jdrg7\\Documents\\Univeridad - I Periodo - 2021 (Tercer año)\\Desarrollo de Software\\I Parcial\\Visual Studio\\Tareas\\Tarea3\\Jorge Reyes\\Clases y notas\\Clases y notas.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jdrg7\\Documents\\Univeridad - I Periodo - 2021 (Tercer año)\\Desarrollo de Software\\I Parcial\\Visual Studio\\Tareas\\Tarea3\\Jorge Reyes\\Clases y notas\\Clases y notas.vbproj",
+        "projectName": "Clases y notas",
+        "projectPath": "C:\\Users\\jdrg7\\Documents\\Univeridad - I Periodo - 2021 (Tercer año)\\Desarrollo de Software\\I Parcial\\Visual Studio\\Tareas\\Tarea3\\Jorge Reyes\\Clases y notas\\Clases y notas.vbproj",
+        "packagesPath": "C:\\Users\\jdrg7\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jdrg7\\Documents\\Univeridad - I Periodo - 2021 (Tercer año)\\Desarrollo de Software\\I Parcial\\Visual Studio\\Tareas\\Tarea3\\Jorge Reyes\\Clases y notas\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jdrg7\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
